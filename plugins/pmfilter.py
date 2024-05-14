@@ -2894,12 +2894,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "group_info":
         buttons = [[
-            InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/TMovie_Hub")
+            InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/TMovie_Hub/4")
        ],[
             InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/TMovie_Hub"),
             InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/TMovie_Hub")
        ],[
-            InlineKeyboardButton('• SEARCH GROUP •', url="https://t.me/TMovie_Hub"),
+            InlineKeyboardButton('• SEARCH GROUP •', url="https://t.me/TMHREQUEST"),
             InlineKeyboardButton('• OTT •', url="https://t.me/+LW_6LMSY5RRlM2Q9")
        ],[
             InlineKeyboardButton('• ᴀɴɪᴍᴇ •', url="https://t.me/world_of_cartoons")
